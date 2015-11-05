@@ -1,8 +1,7 @@
 name: EmotiveTest
 favicon: null
-layout_spectrum: 0.57123
-typography_spectrum: 0.30943
-title: My First Test Site
+layout_spectrum: 1
+typography_spectrum: 0.319078
 cta:
   domain: null
   bucket: null
@@ -22,7 +21,7 @@ color:
     - '#A08858'
     - '#2A80D5'
     - '#000000'
-  brandStrength: 0.5
+  brandStrength: 0.311638
   lightness: 0.970968
   saturation: 0.074327
   rhythmicContrast: 0.013788
