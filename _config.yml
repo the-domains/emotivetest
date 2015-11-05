@@ -1,4 +1,20 @@
-analytics: {}
+name: EmotiveTest
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.319078
+title: My First Test Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#D8D0B0'
@@ -8,11 +24,9 @@ color:
     - '#000000'
   brandStrength: 0.311638
   lightness: 0.970968
-  rhythmicContrast: 0.013788
   saturation: 0.074327
-cta: {}
-layout_spectrum: 1
-name: EmotiveTest
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.319078
+  rhythmicContrast: 0.013788
+purpose:
+  - name: null
+    item: null
+    url: null
